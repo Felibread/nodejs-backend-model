@@ -138,10 +138,10 @@ Now inside .eslintrc.js
 
 ```json
  extends: [
-    'airbnb-base',
-    'prettier'
+    "airbnb-base",
+    "prettier"
   ],
- plugins: ['prettier'],
+ plugins: ["prettier"],
 ```
 
 Then, inside rules:
