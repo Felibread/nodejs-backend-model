@@ -93,7 +93,7 @@ yarn eslint --init
 
 After process completed, delete packagejson-lock and run _yarn_
 
-Allow Eslint to automatically fix your code
+Inside your editor settings, allow Eslint to automatically fix your code
 
 ```json
 "eslint.autoFixOnSave": true,
